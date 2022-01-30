@@ -1,5 +1,5 @@
 # NLP-Deliverable
-===
+
 To run the code python version 3.8.8 is required with the following libraries installed:
 pandas, nltk, and sklearn.
 Next to this Jupyter Notebook is also required to run the code.
